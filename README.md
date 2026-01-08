@@ -20,7 +20,7 @@ The script currently supports and prints the following data:
 
 ## 🛠️ Requirements
 - **Hardware:** [ESP32 Development Board](www.espressif.com)
-- **Library:** [MAVLink v2 by Oleg Kalachev](github.com) (Available in the Arduino Library Manager).
+- **Library:** [MAVLink v2 by Oleg Kalachev](https://github.com/okalachev/mavlink-arduino?utm_source=platformio&utm_medium=piohome) (Available in the Arduino Library Manager).
 - **Core:** ESP32 Arduino Core (AsyncUDP is included by default).
 
 ## 📥 Quick Start
